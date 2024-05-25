@@ -57,7 +57,6 @@
 </details>
 
 <details>
-<details>
 <summary><code>header and Nav Bar</code></summary>
 
 ```html
